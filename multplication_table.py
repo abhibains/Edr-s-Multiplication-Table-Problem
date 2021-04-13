@@ -15,7 +15,7 @@ scatter_slice=[]
 
 rr_slice=[] # Contains remaining rows from unequal division of rows to processors
 
-n = 50000  # Input size
+n = 100000  # Input size
 
 print("Input size ", n)
 
